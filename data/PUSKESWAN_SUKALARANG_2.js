@@ -1,0 +1,1 @@
+var json_PUSKESWAN_SUKALARANG_2 = {"type":"FeatureCollection","name":"PUSKESWAN_SUKALARANG_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","NAMA":"PUSKESWAN"},"geometry":{"type":"Point","coordinates":[107.019958173277047,-6.877722599093305]}}]}
