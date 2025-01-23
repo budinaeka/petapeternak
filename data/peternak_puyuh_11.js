@@ -1,0 +1,1 @@
+var json_peternak_puyuh_11 = {"type":"FeatureCollection","name":"peternak_puyuh_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Nama":"Neneng","Populasi":null},"geometry":{"type":"Point","coordinates":[106.978152077284122,-6.896924692703225]}}]}
